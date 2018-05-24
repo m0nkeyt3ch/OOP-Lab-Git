@@ -1,1 +1,1 @@
-# OOP-Practicum-Git
+# OOP-Lab-Git
